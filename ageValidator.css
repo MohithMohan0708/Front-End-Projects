@@ -1,0 +1,29 @@
+.head
+{
+    font-family:verdana;
+    font-size:5em;
+}
+
+#myAge
+{
+    font-size:1em;
+}
+
+
+#mySubmit
+{
+    background-color:aqua;
+    color:black;
+    font-size:2em;
+    border-radius:5px;
+    padding:5px;
+    font-family:verdana;
+}
+
+
+#result
+{
+    font-family:verdana;
+    font-size:2em;
+
+}
